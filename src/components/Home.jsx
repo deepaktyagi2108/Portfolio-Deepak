@@ -12,7 +12,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Deepak Tyagi",
-        "Aspiring Software Engineer | Strong in DSA & Problem Solving | Web Developer "
+        "Aspiring Software Engineer | Strong in DSA & Problem Solving | Full Stack Web Developer "
       
       ],
       typeSpeed: 50,
